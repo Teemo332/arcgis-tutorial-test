@@ -1,3 +1,4 @@
+<img width="835" height="304" alt="image9" src="https://github.com/user-attachments/assets/7d331042-82ab-4aa9-a0d4-9c93bc6b7f58" />
 # Transferring ArcGIS Online Content from a DKU Account to a Public Account
 
 [Your Name]
@@ -97,6 +98,8 @@ Use these steps for most supported item types:
 4. Click **Copy Items**.
 
 <img src="images/arcgis-assistant-migration/select-item-and-copy.png" width="800" alt="Select an item and click Copy Items">
+<img width="919" height="306" alt="image10" src="https://github.com/user-attachments/assets/54c3d50a-fb7e-489a-b975-a19163fd2fdd" />
+<img width="835" height="304" alt="image9" src="https://github.com/user-attachments/assets/8b29c2ce-4e25-499d-821b-81e8cb1349e6" />
 
 5. Under **Copy Destination**, select your personal account.
 6. Click **Select Account**.
